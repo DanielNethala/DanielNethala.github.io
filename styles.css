@@ -4,16 +4,20 @@ body {
 
 }
 
-.assignment img {
+.assignment  {
     display: flex;
     padding:10px;
     margin: 10px;
+    margin-bottom: 30px;
     background:burlywood;
+    border-radius: 5px;
+    box-shadow: 5px 8px cornflowerblue; 
 }
-.assignment {
+.assignment img {
     width: 200px;
     border: 2px solid thistle
-    margin: 10px;
+    max-resolution: right 20px;
+    ;
 }
 
 h1{
@@ -24,4 +28,7 @@ h1{
 a {
     text-decoration: none;
     color: white;
+}
+.assignment h2{
+    color: crimson;
 }
